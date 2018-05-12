@@ -1,0 +1,32 @@
+_repo: Expedici-n-de-Catalanes-y-Aragoneses-al-Oriente_13516
+_version: 0.1.0
+alternative_title: Expedición de Catalanes y Aragoneses, contra Turcos Y Griegos
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moncada, Francisco de
+    aliases:
+    - De Moncada, Francisco
+    - Moncada, F. de (Francisco)
+    birthdate: 1586
+    deathdate: 1635
+    gutenberg_agent_id: '5106'
+    url: http://www.gutenberg.org/2009/agents/5106
+description: ''
+gutenberg_issued: '2004-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13516'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flor, Roger de, -1305'
+- !lcsh 'Byzantine Empire -- History -- Andronicus II Palaeologus, 1282-1328'
+- !lcc 'DF'
+- !lcsh 'Catalan Grand Company'
+title: Expedición de Catalanes y Aragoneses al Oriente
+url: http://www.gutenberg.org/ebooks/13516
